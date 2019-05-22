@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Home Page
+        </title>
+        <link type="text/css" rel="stylesheet" href="home.css">
+        <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <nav class="menu1">      
+            <div>
+                <a href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true" id="image"></i></a>
+                <a href="https://www.facebook.com/"><i class="fa fa-facebook" aria-hidden="true" id="image"></i></a>
+                <a href="https://twitter.com/"><i class="fa fa-twitter" aria-hidden="true" id="image3"></i></a>
+                <ul>
+                    <li><a>Road Side Assistance Call 1800 1900 1213</a></li>
+                    <li><a href="#"> Login</a></li>
+                    <li><a href="#"> Register</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="menu2">
+            <ul>
+                <li><a href="#" class="present"> HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">PACKAGES</a></li>
+                <li>
+                    <a href="#">Services</a>
+                    <div class="sub_menu">
+                        <ul>
+                            <li><a href="#">OnCall services</a></li>
+                            <li><a href="#">services</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="#">iSAFE Home</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">FAQ</a></li>
+            </ul>
+        </div>
+        <div id="for_ima">
+            <figure>
+                <img class="img1" src="./am1.jpg">
+                <img class="img1" src="./am2.jpg">
+                <img class="img1" src="./am5.jpg">
+                <img class="img1" src="./am4.jpg">
+                <img class="img1" src="./am5.jpg">
+            </figure>
+        </div>
+        <div>
+            <img  class= "img2" src="./below.png">
+        </div>
+        <div>
+            <img  class= "img3" src="./below (2).png">
+        </div>
+        <div>
+            <h1 class="ab_img">Why iSafe Assist</h1>
+            <img  class= "img2" src="./below (3).png">
+            <img  class= "img2" src="./below (4).png">
+        </div>
+    </body>
+</html>
